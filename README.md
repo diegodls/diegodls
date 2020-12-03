@@ -1,6 +1,6 @@
 <html>
-<h2>Olá 👋 eu sou o Diego</h2>
-<h3>Resumo</h3>
+<h2>👋 Olá eu sou o Diego</h2>
+<h3>:ticket: Resumo</h3>
 <p>Um amante do aprendizado e aspirante a desenvolvedor pronto para trilhar esse imenso caminho do desenvolvimento a fim de resolver os problemas das pessoas com o menor numero de linhas possível.</p>
 <ul>
 <li>🔭 Atualmente trabalhando em: "Error 404 - Not Found" <<< Insira o nome da sua empresa aqui, pergunte-me como. :wink:</li>
@@ -9,7 +9,7 @@
 <li>💬 Pode me perguntar sobre qualquer coisa.</li>
 </ul>
   
-<h2>Me encontre</h2>
+<h2>:speech_balloon: Me encontre</h2>
 <p align='left'>
   <a href="mailto:contato.diegoluisdasilva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -22,7 +22,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<h2>Estatistica</h2>
+<h2>:chart: Estatistica</h2>
 <p align='left'>
 <a href="https://github.com/diegodls?tab=repositories">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=diegodls&layout=compact&show_icons=true&theme=solarized-dark" />
@@ -32,7 +32,7 @@
 </a>
 </p>
 
-<h2>Conhecimento</h2>
+<h2>:scroll: Conhecimento</h2>
 <p align='left'>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 &nbsp;&nbsp;
@@ -62,15 +62,17 @@
 &nbsp;&nbsp; 
 </p>
 
-<h2>Formação</h2>
+<h2>:man_student: Formação</h2>
 <details>
-  <summary> :arrow_down_small: Veja mais...</summary>
+ 
+ <summary> :arrow_down_small: Veja mais...</summary>
   
 <ul>
   <li>
   :books: <strong>Bacharelado em Ciência da Computação</strong></br>
   :mailbox: Ribeirão Preto/SP</br>
   :date: 2014 - 2018</br>
+  </li>
 </ul>
 
 <ul>
@@ -83,17 +85,18 @@
 
 <ul>
   <li>
-    :books: <strong>Git e Github para iniciantes</strong></br>
-    :mailbox: <a href='https://www.udemy.com/course/git-e-github-para-iniciantes/'>Udemy</a></br>
-    :date: 2019</br>
-    </li>
+  :books: <strong>Git e Github para iniciantes</strong></br>
+  :mailbox: <a href='https://www.udemy.com/course/git-e-github-para-iniciantes/'>Udemy</a></br>
+  :date: 2019</br>
+  </li>
 </ul>
 
 <ul>
   <li>
-   :books: <strong>JavaScript - Curso COMPLETO com 6 Projetos REAIS</strong></br>
+  :books: <strong>JavaScript - Curso COMPLETO com 6 Projetos REAIS</strong></br>
   :mailbox: <a href='https://www.udemy.com/course/javascript-curso-completo'>Udemy</a></br>
   :date: 2018</br>
+  </li>
 </ul>
 
 <ul>
@@ -107,16 +110,17 @@
 <ul>
   <li>
   :books: <strong>Python para Android, iOS, Win, Linux e Mac - Desde o Básico</strong></br>
-  :milbox: <a href='https://www.udemy.com/course/curso-de-python-android-ios-windows-linux-mac'>Udemy</a></br>
+  :mailbox: <a href='https://www.udemy.com/course/curso-de-python-android-ios-windows-linux-mac'>Udemy</a></br>
   :date: 2015</br>
   </li>
 </ul>
 
 <ul>
-    <li>
+  <li>
   :books: <strong>E continuanos com os aprendizados</strong></br>
   :mailbox: Google/Youtube/Medium/...</br>
   :date: :infinity:</br>
+  </li>
 </ul>
 </details>
 
