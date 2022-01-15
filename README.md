@@ -13,55 +13,65 @@
 <p align='left'>
   <a href="mailto:contato.diegoluisdasilva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="http://bit.ly/diegoluis_linkedin">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="http://bit.ly/diegoluis_facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
 </p>
 
 <h2>:chart: Estatistica</h2>
 <p align='left'>
 <a href="https://github.com/diegodls?tab=repositories">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=diegodls&layout=compact&show_icons=true&theme=solarized-dark" />
-</a> &nbsp;&nbsp;
+</a> &nbsp;
 <a href="https://github.com/diegodls?tab=repositories">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodls&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook" />
 </a>
 </p>
 
 <h2>:scroll: Conhecimento</h2>
-<p align='left'>
+<div align='left'>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-&nbsp;&nbsp;
+&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-&nbsp;&nbsp;
+&nbsp;
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-&nbsp;&nbsp;
+&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-&nbsp;&nbsp;  
+&nbsp;
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-&nbsp;&nbsp;
+&nbsp;
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-&nbsp;&nbsp;
+&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+&nbsp;
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-&nbsp;&nbsp; 
-  </p>
-  <p align='left'>
+&nbsp;
+  </div>
+  <div align='left'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-&nbsp;&nbsp;
+&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-&nbsp;&nbsp;
+&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-&nbsp;&nbsp;
+&nbsp;
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-&nbsp;&nbsp; 
-</p>
-
+&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+&nbsp;
+     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+&nbsp;         
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+&nbsp;
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> 
+</div>
+  
+ 
 <h2>:man_student: Formação</h2>
 <details>
  
@@ -77,9 +87,25 @@
 
 <ul>
   <li>
+  :books: <strong>Entendendo TypeScript</strong></br>
+  :mailbox: <a href='https://www.udemy.com/certificate/UC-c4bf6d4f-e219-4ba9-b8a9-9464e08c0888/'>Udemy</a></br>
+  :date: 2021</br>
+  </li>
+</ul>
+
+<ul>
+  <li>
+  :books: <strong>React, NodeJS, Express & MongoDB - The MERN Fullstack Guide</strong></br>
+  :mailbox: <a href='https://www.udemy.com/certificate/UC-ba41241a-6a01-4bfb-99ac-0dc48766028a/'>Udemy</a></br>
+  :date: 2021</br>
+  </li>
+</ul>
+
+<ul>
+  <li>
   :books: <strong>React Native: Desenvolva APPs Nativas para Android e iOS</strong></br>
   :mailbox: <a href='https://www.udemy.com/course/curso-react-native'>Udemy</a></br>
-  :date: 2019</br>
+  :date: 2020</br>
   </li>
 </ul>
 
@@ -117,7 +143,7 @@
 
 <ul>
   <li>
-  :books: <strong>E continuanos com os aprendizados</strong></br>
+  :books: <strong>E o aprendizado nunca para</strong></br>
   :mailbox: Google/Youtube/Medium/...</br>
   :date: :infinity:</br>
   </li>
@@ -125,18 +151,3 @@
 </details>
 
 </html>
-
-<!--
-**diegodls/diegodls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
