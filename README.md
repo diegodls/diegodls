@@ -1,11 +1,10 @@
 <html>
-<h2>👋 Olá eu sou o Diego</h2>
+<h2><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="30px"> Olá eu sou o Diego</h2>
 <h3>:ticket: Resumo</h3>
 <p>Um amante do aprendizado e aspirante a desenvolvedor pronto para trilhar esse imenso caminho do desenvolvimento a fim de resolver os problemas das pessoas com o menor numero de linhas possível.</p>
 <ul>
-<li>🔭 Atualmente trabalhando em: "Error 404 - Not Found" <<< Insira o nome da sua empresa aqui, pergunte-me como. :wink:</li>
 <li>🌱 Meu principal foco é desenvolver sistemas web e aplicativos para dispositivos móveis.</li>
-<li>👯 Procuro colaborar onde posso, principalmente com os iniciantes.</li>
+<li>👯 Tentando sempre ajudar.</li>
 <li>💬 Pode me perguntar sobre qualquer coisa.</li>
 </ul>
   
@@ -25,10 +24,10 @@
 <h2>:chart: Estatistica</h2>
 <p align='left'>
 <a href="https://github.com/diegodls?tab=repositories">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=diegodls&layout=compact&show_icons=true&theme=solarized-dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=diegodls&hide=stars,prs&layout=compact&show_icons=true&theme=dracula" />
 </a> &nbsp;
 <a href="https://github.com/diegodls?tab=repositories">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodls&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodls&show_icons=true&layout=compact&theme=dracula" />
 </a>
 </p>
 
