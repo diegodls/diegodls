@@ -12,20 +12,20 @@
 <p align='left'>
   <a href="mailto:contato.diegoluisdasilva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
+  </a>;
   <a href="http://bit.ly/diegoluis_linkedin">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+  </a>;
   <a href="http://bit.ly/diegoluis_facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
-  </a>&nbsp;
+  </a>;
 </p>
 
 <h2>:chart: Estatistica</h2>
 <p align='left'>
 <a href="https://github.com/diegodls?tab=repositories">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=diegodls&hide=stars,prs&layout=compact&show_icons=true&theme=dracula" />
-</a> &nbsp;
+</a>;
 <a href="https://github.com/diegodls?tab=repositories">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodls&show_icons=true&layout=compact&theme=dracula" />
 </a>
